@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "tree 0x00-shell_basics"\n
+echo "pwd"\n
